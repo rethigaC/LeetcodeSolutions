@@ -15,4 +15,4 @@ int maxDepth(struct TreeNode* root) {
     return (leftheight > rightheight ? leftheight:rightheight)+1;
     
 }
-Verification: https://leetcode.com/problems/maximum-depth-of-binary-tree/solutions/7550912/104-maximum-depth-of-binary-tree-by-reth-un23
+
